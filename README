@@ -1,0 +1,23 @@
+Donovan Griego
+2020-09-02
+Lab 1
+
+Purpose: Calculates values based on geometric measurements given by input from the user.
+
+Conclusion:
+    What I learned from this lab:
+    I learned how to implement multiple functions to solve a given problem. It is convenient and efficient to only task functions with one task
+    and return the value. This way a program can utilize mutliple functions efficiently and this encourages cleaner code overall.
+
+    How did the pair programming help/hinder this lab?:
+    The pair programming helped me with this lab because it prepared me to utilize functions correctly. It let my partner and I see things in
+    our own way and ask eachother any questions we had. We reviewed eachothers' code after completeing the lab and discussed any issues we ran
+    into and how we sovled them.
+
+    Issues I had:
+    I didn't have any issues in terms of compiling or writing my program.
+
+    Improvements that can be made:
+    I think I can improve my program by simplifying the way I ask for input and communicate to the user. Instead of a giant wall of text I could
+    break it into functions.
+

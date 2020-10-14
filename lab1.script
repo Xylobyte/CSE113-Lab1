@@ -1,0 +1,40 @@
+Donovan Griego
+Lab 1
+Wednesday September 2, 2020
+
+Script started on 2020-09-02 11:21:34-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="190" LINES="15"]
+]0;dxgriego@Parallels: ~/cse113/lab1[01;32mdxgriego@Parallels[00m:[01;34m~/cse113/lab1[00m$ exitgcc -g -Wall -lm -o lab1[1@l[1@a[1@b[1@1[1@.[1@c[1@ 
+]0;dxgriego@Parallels: ~/cse113/lab1[01;32mdxgriego@Parallels[00m:[01;34m~/cse113/lab1[00m$ ./lab1
+Enter the height of a rectangle as a whole (integer) number: 2
+Enter the width of a rectangle as a whole (integer) number: 3
+
+--- Rectangle Calculations ---
+The area of a rectangle with height 2 and width 3 is 6
+The perimeter of a rectangle with height 2 and width 3 is 10
+The length of the diagonal of a rectangle with height 2 and width 3 is 3.605551
+
+Enter the radius of a circle as a floating point number: 2.0
+
+--- Circle Calculations ---
+The area of a circle with radius 2.000000 is 12.566371
+The circumference of a circle with radius 2.000000 is 12.566371
+
+Enter the height of a right triangle as a floating point number: 1.0
+Enter the base of a right triangle as a floating point number: 1.0
+
+--- Triangle Calculations ---
+The area of a triangle with height 1.000000 and base 1.000000 is 0.500000
+The perimeter of a triangle with height 1.000000 and base 1.000000 is 3.414214
+
+Enter the number of sides of a regular polygon as an integer: 8
+Enter the length of a the side of a regular polygon as a floating point number: 5.0
+
+--- Regular Polygons ---
+The exterior angle of a regular polygon with 8 sides is 45.000000 degrees.
+The interior angles of a regular polygon with 8 sides sums to 360.000000 degrees.
+The interior angle of a regular polygon with 8 sides is 135.000000 degrees.
+The area of a regular polygon with 8 sides, each 5.000000 long is 120.710678
+]0;dxgriego@Parallels: ~/cse113/lab1[01;32mdxgriego@Parallels[00m:[01;34m~/cse113/lab1[00m$ exit
+exit
+
+Script done on 2020-09-02 11:22:47-06:00 [COMMAND_EXIT_CODE="0"]
